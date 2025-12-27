@@ -1,4 +1,4 @@
-# Aurion — Personal AI Voice Assistant
+# Aurion(Redo1 X AI) — Personal AI Voice Assistant
 
 Aurion is a fully functional voice-controlled AI assistant built using Python.
 It listens to voice commands, speaks responses, fetches information, manages tasks, sets alarms/reminders, sends emails/WhatsApp messages, retrieves news, plays music, and much more — all hands-free. Moreover, this project converted to .exe file.
